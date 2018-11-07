@@ -1,0 +1,11 @@
+{
+  "name": "https-proxy",
+  "version": "0.0.1",
+  "description": "Simple URL proxy that proxies HTTP content over HTTPS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aiko AI",
+  "license": "ISC"
+}
