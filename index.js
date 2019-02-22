@@ -1,6 +1,7 @@
 const cors = require('cors')
 const request = require('request')
-var app = require('express')()
+var express = require('express')
+var app = express()
 
 app.use(express.json())
 app.use(function(req, res, next) {
